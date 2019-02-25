@@ -5,6 +5,6 @@
     </head>
     <body>
         <h1>Info Page</h1>
-        <p>This is the info page: heres some information about me!</p>
+        <p>Here is the info page: heres some information about me!</p>
     </body>
 </html>
